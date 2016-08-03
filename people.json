@@ -1,0 +1,27 @@
+{
+	"people": [
+	
+		{
+			"name" : "Dale Musser",
+			"company" : "University of Missouri",
+			"image" : "http://engineering.missouri.edu/wp-content/uploads/Musser_Dale1-320x480.jpg",
+			"links" : [
+				"url" : "http://engineering.missouri.edu/person/musserd/",
+				"url" : "https://twitter.com/dalemusser/status/595956050542465024",
+				"url" : "https://twitter.com/dalemusser/status/590880426761129986",
+				"url" : "https://www.facebook.com/dale.musser.54"
+			]
+		
+		},
+		{
+			"name" : "Mickey Mouse",
+			"company" : "Disney",
+			"image" : "https://en.wikipedia.org/wiki/File:Mickey_Mouse.png",
+			"links" : [
+				"url" : "https://en.wikipedia.org/wiki/Mickey_Mouse"
+			]
+
+		}
+
+	]
+}
